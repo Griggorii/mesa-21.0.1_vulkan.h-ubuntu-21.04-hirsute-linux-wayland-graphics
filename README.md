@@ -12,3 +12,7 @@ Install automate backup original mesa command script sh sudo run terminal locate
 $ ./mesa-21.0.1-21.0.7_install-ubuntu-21.04.sh
 
 Reboot test color monitor image and video
+
+Original not mixer video driver 27.0.1: https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
+
+Support real tehnology and donate message Griggorii@gmail.com fix foundation linux
