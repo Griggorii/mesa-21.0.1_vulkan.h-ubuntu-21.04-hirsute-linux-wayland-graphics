@@ -10,3 +10,5 @@ $ chmod -R a+rwx ./mesa-21.0.1-21.0.7_install-ubuntu-21.04.sh
 Install automate backup original mesa command script sh sudo run terminal locate mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute_griggorii.tar.xz:
 
 $ ./mesa-21.0.1-21.0.7_install-ubuntu-21.04.sh
+
+Reboot test color monitor image and video
