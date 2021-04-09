@@ -16,3 +16,5 @@ Reboot test color monitor image and video
 Original not mixer video driver 27.0.1: https://github.com/Griggorii/mesa-27.0.1-glib-2.31-ubuntu20.04-linux-wayland-graphics
 
 Support real tehnology and donate message Griggorii@gmail.com fix foundation linux
+
+Test old driver trailer film https://youtu.be/3axF7TY3oP0 install driver cinematic review trailer https://youtu.be/3axF7TY3oP0
