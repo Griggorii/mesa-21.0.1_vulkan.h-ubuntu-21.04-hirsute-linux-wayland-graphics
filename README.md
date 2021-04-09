@@ -1,5 +1,5 @@
 # mesa-21.0.1_vulkan.h-ubuntu-21.04-hirsute-linux-wayland-graphics
-mesa , mixer , gamma-2.4 , srgb , 21.0.1 to 27.0.1 , linux , color graphics , grafics drivers , monitor pixel
+mesa , mixer , gamma-2.4 , srgb , 21.0.1 to 27.0.1 , linux , color graphics , grafics drivers , monitor pixel , cinematic effect , billions of digital color pixels , grayscale , enbseries emulate all monitor , bad color old monitor matrices -> install driver +90% color  = best monotor matrices
 
 ubuntu-21.04
 
